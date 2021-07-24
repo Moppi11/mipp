@@ -5,9 +5,9 @@
 class Translation(object):
     
     START_TEXT = """<b>Hey {}!!</b>
-<i>Am Just A Advance Auto Filter Bot....😉
+<i>😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+ 🔥🔥😝
 
 For More Details Click Help Button Below..
 @CrazyBotsz
@@ -17,18 +17,18 @@ For More Details Click Help Button Below..
 <b><i><u>How To Use Me!?</u></i></b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> 🔥🔥🔥🔥🔥🔥
+-> 😍😍😍😍😍😍
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
 
     -> <code>/add chat_id</code>
-                OR                  - To Connect A Group With A Channel (Bot Should Be Admin With Full Previlages In Both Group And Channel)
+                OR                  - 👍👍👍👍👍👍👍 (Bot Should Be Admin With Full Previlages In Both Group And Channel)
      <code>/add @Username</code>
      
     -> <code>/del chat_id</code>
-                OR                  - To disconnect A Group With A Channel
+                OR                  - 📥📥📥📥📥📥📥
      <code>/del @Username</code>
      
     -> <code>/delall</code>  - This Command Will Disconnect All Connected Channel With The Group And Deletes All Its File From DB
@@ -43,12 +43,12 @@ For More Details Click Help Button Below..
             
             -> <code>Status</code> - Button Will Shows The Stats Of Your Channel
             
-@CrazyBotsz
+@malayalam_cinema_group
 """
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/malayalam_cinema_group>Ask_me</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
